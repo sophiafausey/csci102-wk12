@@ -7,4 +7,7 @@ def printOutput(string):
 
 def loadFile:
     #sdngsdng
+
+def UpdateString:
+    #sudihfodsgodssdnvsldkf
     
