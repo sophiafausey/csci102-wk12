@@ -4,3 +4,7 @@
 
 def printOutput(string):
     print("OUTPUT", string)
+
+def loadFile:
+    #sdngsdng
+    
